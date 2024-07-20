@@ -23,4 +23,4 @@ Using the polymorphism model, design a class diagram to address the situation de
 
 The UML diagram for this system:
 
-![This is the UML diagram ](https://github.com/simay-uygur/Project-5-Patika/blob/main/image.png)
+![This is the UML diagram ](https://github.com/simay-uygur/Project-5---Patika/blob/main/image.png)
